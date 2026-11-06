@@ -1,0 +1,33 @@
+{
+  "perito_nome": "",
+  "perito_email": "",
+  "assinatura_rascunho": "Atenciosamente,\n{perito_nome}",
+  "pasta_drive_local": "",
+  "drive_raiz_nome": "",
+  "estagios": [
+    "00 - PARA ORÇAMENTO",
+    "01 - ORÇAMENTO ENVIADO",
+    "02 - EM EXECUÇÃO",
+    "03 - TRABALHO ENTREGUE",
+    "04 - PROPOSTA RECUSADA",
+    "05 - TRABALHO ENTREGUE A RECEBER",
+    "06 - AVULSOS"
+  ],
+  "pasta_clientes": "00 - CLIENTES",
+  "pasta_quarentena_nome": "_REVISAR - SEM CLIENTE",
+  "etiquetas_gmail": {
+    "processado": "SECRETARIA/Processado",
+    "aguardando_perito": "SECRETARIA/Aguardando perito",
+    "rascunho_pronto": "SECRETARIA/Rascunho pronto",
+    "promocional": "SECRETARIA/Promocional"
+  },
+  "ferramentas": {
+    "gmail_pode_criar_rascunho": null,
+    "gmail_pode_etiquetar": null,
+    "gmail_pode_baixar_anexo": null,
+    "drive_pode_criar_arquivo": null,
+    "drive_pode_mover": null,
+    "drive_pode_renomear": null,
+    "observacao": "Preenchido pelo comando /iniciar após testar os conectores."
+  }
+}
